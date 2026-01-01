@@ -1,16 +1,26 @@
-# React + Vite
+🎮 Game Zone Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive Game Zone UI built with React, GSAP, TailwindCSS, and Vite.
+This project showcases smooth animations, responsive layouts, and dynamic components designed for a gaming portal or entertainment website.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Demo
+Live Demo Link: https://game-zoon.vercel.app [vercel]
 
-## React Compiler
+🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React 19 – Component-based UI development
 
-## Expanding the ESLint configuration
+* GSAP – High-performance animations for interactive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* TailwindCSS – Responsive design and utility-first styling
+
+* Vite – Fast build and development tooling
+
+* React Icons – Consistent iconography
+
+* React Use – Useful React hooks for interactivity
+
+🚀 Installation
+
+Clone the repository: https://github.com/Anika-55/Gaming_Website
