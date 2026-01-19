@@ -6,6 +6,7 @@ This project showcases smooth animations, responsive layouts, and dynamic compon
 
 🔗 Demo
 Live Demo Link: https://game-zoon.vercel.app [vercel]
+Live Demo Link: https://silver-sunburst-b836a7.netlify.app [netlify]
 
 🛠️ Technologies Used
 
